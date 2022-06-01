@@ -1,0 +1,22 @@
+.svg-activity{
+    border: 1px solid red;
+}
+.sec-activity-chart{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    h1{  
+        font-size: 0.9em;    
+        flex: 3;
+    }
+    ul{
+        font-size: 0.9em;
+        display: flex;
+        flex: 2;
+        li{
+            list-style-type: none;
+            justify-content: space-between;
+            padding-left: 50px;
+        }
+    }
+}

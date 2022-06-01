@@ -3,6 +3,7 @@ import Header from "../layout/Header";
 import {Barchart as Barchart2} from "../components/charts/example/Barchart";
 import RightMenuBar from "./RightMenuBar";
 import Welcome from "../components/Welcome";
+import ActivityChart from "../components/charts/real/ActivityChart";
 
 export default function Home(){
     return(
@@ -22,7 +23,7 @@ export default function Home(){
                     <div className="allGraph">
                         <div className="leftGraph">
                             <div className="leftGraph__batton">
-                                
+                                <ActivityChart />
                             </div>
                             <div className="leftGraph__bottom">
                                 <div className="leftGraph__bottom--session">
