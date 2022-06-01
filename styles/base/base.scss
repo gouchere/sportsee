@@ -1,0 +1,25 @@
+@use "./../abstracts/variable" as v;
+
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px; 
+    background: v.$secondary;
+    .header{
+        height: 10vh;
+    } 
+    .body{
+        display: flex;
+        flex-direction: row;
+    }
+    .rigth{
+        width: 10%;
+        height: 89vh;
+    }
+    .center{
+        background: #FFF;
+        height: 95vh;
+        width: 100vw;
+        padding: 4.7vh;
+    }
+}

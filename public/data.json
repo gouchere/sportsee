@@ -1,0 +1,28 @@
+{
+    "activite":[
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":68, "calorie":70},
+        {"poids":69.9, "calorie":70.13},
+        {"poids":69.5, "calorie":71}
+    ],
+    "session":[30,45,60,73,68,39,120,48,55,60],
+    "performances":[
+        {"activite":"intensité", "performance":200},
+        {"activite":"cardio", "performance":200},
+        {"activite":"vitesse", "performance":200},
+        {"activite":"force", "performance":200},
+        {"activite":"energie", "performance":200},
+        {"activite":"endurance", "performance":200}
+    ],
+    "score":31,
+    "calorie":1.930,
+    "proteine":155,
+    "glucide":290,
+    "lipide":50
+}

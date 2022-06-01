@@ -1,0 +1,23 @@
+@use "./../abstracts/variable" as v;
+
+.header{
+    div{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    &__logo{
+        padding: 10px;
+    }
+    &__menu ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        li{
+            width: 250px;
+            list-style-type: none;
+            color: v.$white;
+            cursor: pointer;
+        }
+    }
+}

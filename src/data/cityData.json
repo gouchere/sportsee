@@ -1,0 +1,12 @@
+{
+    "data":{
+        "city": "New York City", 
+        "population": 8406000, 
+        "state": "New York"
+    },
+    "other":{
+        "city": "New York City", 
+        "population": 8406000, 
+        "state": "New York"
+    }
+}
