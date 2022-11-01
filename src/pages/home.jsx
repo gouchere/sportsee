@@ -1,6 +1,5 @@
 import React from "react";
 import Header from "../layout/Header";
-import {Barchart as Barchart2} from "../components/charts/example/Barchart";
 import RightMenuBar from "./RightMenuBar";
 import Welcome from "../components/Welcome";
 import ActivityChart from "../components/charts/real/ActivityChart";
